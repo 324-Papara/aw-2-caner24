@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 using Para.Base.Entity;
 
 namespace Para.Data.Domain;
@@ -8,7 +9,8 @@ namespace Para.Data.Domain;
 public class CustomerPhone : BaseEntity
 {
     public long CustomerId { get; set; }
-    public virtual Customer Customer { get; set; }
+    [JsonIgnore]
+    public virtual Customer? Customer { get; set; }
     
     
     public string CountyCode { get; set; } // TUR

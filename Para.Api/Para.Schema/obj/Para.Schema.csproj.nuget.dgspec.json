@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj": {}
+    "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj": {
+    "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+        "projectUniqueName": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj",
         "projectName": "Para.Schema",
-        "projectPath": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+        "projectPath": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj",
         "packagesPath": "C:\\Users\\cnr24\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Schema\\obj\\",
+        "outputPath": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Schema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

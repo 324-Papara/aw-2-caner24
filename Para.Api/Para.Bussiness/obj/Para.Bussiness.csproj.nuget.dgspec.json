@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj": {}
+    "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj": {
+    "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
+        "projectUniqueName": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
         "projectName": "Para.Bussiness",
-        "projectPath": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
+        "projectPath": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
         "packagesPath": "C:\\Users\\cnr24\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\Para.Bussiness\\obj\\",
+        "outputPath": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

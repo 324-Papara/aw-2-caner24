@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Para.Bussiness
-build_property.ProjectDir = C:\Users\cnr24\source\repos\aw-2-caner24\Para.Api\Para.Bussiness\
+build_property.ProjectDir = C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

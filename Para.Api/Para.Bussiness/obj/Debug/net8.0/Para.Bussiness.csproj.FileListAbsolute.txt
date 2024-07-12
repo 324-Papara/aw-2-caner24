@@ -1,0 +1,12 @@
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.deps.json
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.dll
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.pdb
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.AssemblyInfoInputs.cache
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.AssemblyInfo.cs
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.sourcelink.json
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.dll
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\refint\Para.Bussiness.dll
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.pdb
+C:\Users\cnr24\github-classroom\324-Papara\aw-2-caner24\Para.Api\Para.Bussiness\obj\Debug\net8.0\ref\Para.Bussiness.dll

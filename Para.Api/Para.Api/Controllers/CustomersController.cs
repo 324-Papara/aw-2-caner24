@@ -1,8 +1,10 @@
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Para.Api.Attribute;
 using Para.Data.Context;
 using Para.Data.Domain;
+using Para.Data.UnitOfWork;
 
 namespace Para.Api.Controllers
 {
@@ -10,49 +12,59 @@ namespace Para.Api.Controllers
     [ApiController]
     public class CustomersController : ControllerBase
     {
-        private readonly ParaSqlDbContext dbContext;
-
-        public CustomersController(ParaSqlDbContext dbContext)
+        private readonly IUnitOfWork _unitOfWork;
+        public CustomersController(IUnitOfWork unitOfWork)
         {
-            this.dbContext = dbContext;
+            _unitOfWork = unitOfWork;
         }
 
 
         [HttpGet]
-        public async Task<List<Customer>> Get()
+        public async Task<IActionResult> Get(string? customerName, string? fields = "")
         {
-            var entityList1 = await dbContext.Set<Customer>().Include(x=> x.CustomerAddresses).Include(x=> x.CustomerPhones).Include(x=> x.CustomerDetail).ToListAsync();
-            var entityList2 = await dbContext.Customers.Include(x=> x.CustomerAddresses).Include(x=> x.CustomerPhones).Include(x=> x.CustomerDetail).ToListAsync();
-            return entityList1;
+            var entityList = customerName == null ? await _unitOfWork.CustomerRepository.GetAll(includeFields: fields) : await _unitOfWork.CustomerRepository.GetAll(x => x.FirstName == customerName, fields);
+            return Ok(entityList);
         }
 
         [HttpGet("{customerId}")]
-        public async Task<Customer> Get(long customerId)
+        public async Task<IActionResult> Get(long customerId)
         {
-            var entity = await dbContext.Set<Customer>().Include(x=> x.CustomerAddresses).Include(x=> x.CustomerPhones).Include(x=> x.CustomerDetail).FirstOrDefaultAsync(x => x.Id == customerId);
-            return entity;
+            var entity = await _unitOfWork.CustomerRepository.GetById(x => x.Id == customerId);
+            return Ok(entity);
         }
 
         [HttpPost]
-        public async Task Post([FromBody] Customer value)
+        [ServiceFilter(typeof(CustomerValidationAttribue))]
+        public async Task<IActionResult> Post([FromBody] Customer value)
         {
-            var entity = await dbContext.Set<Customer>().AddAsync(value);
-            await dbContext.SaveChangesAsync();
+            var entity = _unitOfWork.CustomerRepository.Insert(value);
+            await _unitOfWork.CustomerRepository.Save();
+            return StatusCode(201);
         }
 
         [HttpPut("{customerId}")]
-        public async Task Put(long customerId, [FromBody] Customer value)
+        [ServiceFilter(typeof(CustomerValidationAttribue))]
+        public async Task<IActionResult> Put(long customerId, [FromBody] Customer value)
         {
-            dbContext.Set<Customer>().Update(value);
-            await dbContext.SaveChangesAsync();
+            var customer = await _unitOfWork.CustomerRepository.GetById(x => x.Id == customerId);
+            if (customer is null)
+                return StatusCode(StatusCodes.Status404NotFound);
+
+            customer = value;
+            //change tracking aktif olduğu için update yapmaya gerek yok
+            //await _unitOfWork.CustomerRepository.Update(customer);
+            await _unitOfWork.CustomerRepository.Save();
+            return Ok();
         }
 
         [HttpDelete("{customerId}")]
-        public async Task Delete(long customerId)
+        public async Task<IActionResult> Delete(long customerId)
         {
-            var entity = await dbContext.Set<Customer>().FirstOrDefaultAsync(x => x.Id == customerId);
-            dbContext.Set<Customer>().Remove(entity);
-            await dbContext.SaveChangesAsync();
+            var entity = await _unitOfWork.CustomerRepository.GetById(x => x.Id == customerId);
+            await _unitOfWork.CustomerRepository.Delete(entity);
+            await _unitOfWork.CustomerRepository.Save();
+            return Ok();
+
         }
     }
 }

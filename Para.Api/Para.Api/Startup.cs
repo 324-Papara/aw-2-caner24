@@ -1,7 +1,12 @@
 using System.Text.Json.Serialization;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using Para.Api.Attribute;
+using Para.Api.Validation.FluentValidation;
+using Para.Api.Validations.FluentValidation;
 using Para.Data.Context;
+using Para.Data.Domain;
 using Para.Data.UnitOfWork;
 
 namespace Para.Api;
@@ -9,16 +14,16 @@ namespace Para.Api;
 public class Startup
 {
     public IConfiguration Configuration;
-    
+
     public Startup(IConfiguration configuration)
     {
         this.Configuration = configuration;
     }
-    
-    
+
+
     public void ConfigureServices(IServiceCollection services)
     {
-               
+
         services.AddControllers().AddJsonOptions(options =>
         {
             options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
@@ -29,10 +34,13 @@ public class Startup
         {
             c.SwaggerDoc("v1", new OpenApiInfo { Title = "Para.Api", Version = "v1" });
         });
-
+        services.AddScoped<IValidator<Book>, BookValidatior>();
+        services.AddScoped<IValidator<Customer>, CustomerValidator>();
+        services.AddScoped<BookValidationAttribute>();
+        services.AddScoped<CustomerValidationAttribue>();
         var connectionStringSql = Configuration.GetConnectionString("MsSqlConnection");
         services.AddDbContext<ParaSqlDbContext>(options => options.UseSqlServer(connectionStringSql));
-        
+
         var connectionStringPostgre = Configuration.GetConnectionString("PostgresSqlConnection");
         services.AddDbContext<ParaPostgreDbContext>(options => options.UseNpgsql(connectionStringPostgre));
 

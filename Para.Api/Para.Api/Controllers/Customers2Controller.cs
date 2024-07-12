@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Para.Api.Attribute;
 using Para.Data.Domain;
 using Para.Data.UnitOfWork;
 
@@ -26,11 +27,12 @@ namespace Para.Api.Controllers
         [HttpGet("{customerId}")]
         public async Task<Customer> Get(long customerId)
         {
-            var entity = await unitOfWork.CustomerRepository.GetById(customerId);
+            var entity = await unitOfWork.CustomerRepository.GetById(x => x.Id == customerId);
             return entity;
         }
 
         [HttpPost]
+        [ServiceFilter(typeof(CustomerValidationAttribue))]
         public async Task Post([FromBody] Customer value)
         {
             await unitOfWork.CustomerRepository.Insert(value);
@@ -40,6 +42,7 @@ namespace Para.Api.Controllers
         }
 
         [HttpPut("{customerId}")]
+        [ServiceFilter(typeof(CustomerValidationAttribue))]
         public async Task Put(long customerId, [FromBody] Customer value)
         {
             await unitOfWork.CustomerRepository.Update(value);

@@ -1,7 +1,100 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cnr24\\source\\repos\\aw-2-caner24\\Para.Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\domain\\customerphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\domain\\customerphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\configuration\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\configuration\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\domain\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\domain\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\attribute\\customervalidatonattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\attribute\\customervalidatonattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\context\\parasqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\context\\parasqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\configuration\\customerphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\configuration\\customerphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\configuration\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\configuration\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\configuration\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\configuration\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC00E845-CF07-4B58-BF18-AFCD9F3C6CF0}|Para.Base\\Para.Base.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.base\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC00E845-CF07-4B58-BF18-AFCD9F3C6CF0}|Para.Base\\Para.Base.csproj|solutionrelative:para.base\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\context\\parapostgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\context\\parapostgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\controllers\\customers2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\controllers\\customers2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\domain\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\domain\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\attribute\\bookvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\attribute\\bookvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\validation\\fluentvalidation\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\validation\\fluentvalidation\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.api\\validation\\fluentvalidation\\bookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8129F5D-96F8-48D8-949D-FBEA60C0374D}|Para.Api\\Para.Api.csproj|solutionrelative:para.api\\validation\\fluentvalidation\\bookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED0DA4-473B-403C-8722-6F540E8164F3}|Para.Bussiness\\Para.Bussiness.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.bussiness\\para.bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19ED0DA4-473B-403C-8722-6F540E8164F3}|Para.Bussiness\\Para.Bussiness.csproj|solutionrelative:para.bussiness\\para.bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|c:\\users\\cnr24\\github-classroom\\324-papara\\aw-2-caner24\\para.api\\para.data\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08994B8D-655B-4BE9-87ED-A4EFDB41A217}|Para.Data\\Para.Data.csproj|solutionrelative:para.data\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +102,310 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Para.Data\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Para.Data\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:43:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerPhone.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerPhone.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Configuration\\CustomerPhone.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerPhone.cs",
+              "RelativeToolTip": "Para.Data\\Configuration\\CustomerPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:22:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerValidatonAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Attribute\\CustomerValidatonAttribute.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Attribute\\CustomerValidatonAttribute.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Attribute\\CustomerValidatonAttribute.cs",
+              "RelativeToolTip": "Para.Api\\Attribute\\CustomerValidatonAttribute.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:00:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerPhone.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerPhone.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Domain\\CustomerPhone.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerPhone.cs",
+              "RelativeToolTip": "Para.Data\\Domain\\CustomerPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:13:36.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Startup.cs",
+              "RelativeToolTip": "Para.Api\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:17:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Domain\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerDetail.cs",
+              "RelativeToolTip": "Para.Data\\Domain\\CustomerDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:00:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\Customer.cs",
+              "RelativeToolTip": "Para.Data\\Domain\\Customer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:43:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\Customer.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Configuration\\Customer.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\Customer.cs",
+              "RelativeToolTip": "Para.Data\\Configuration\\Customer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAlwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:13:46.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Para.Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:42:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Configuration\\CustomerAddress.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerAddress.cs",
+              "RelativeToolTip": "Para.Data\\Configuration\\CustomerAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:24:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParaSqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Context\\ParaSqlDbContext.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Context\\ParaSqlDbContext.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Context\\ParaSqlDbContext.cs",
+              "RelativeToolTip": "Para.Data\\Context\\ParaSqlDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwBwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:10:03.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Configuration\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Configuration\\CustomerDetail.cs",
+              "RelativeToolTip": "Para.Data\\Configuration\\CustomerDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:24:02.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Para.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:01:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParaPostgreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Context\\ParaPostgreDbContext.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Context\\ParaPostgreDbContext.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Context\\ParaPostgreDbContext.cs",
+              "RelativeToolTip": "Para.Data\\Context\\ParaPostgreDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:13:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Base\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Para.Base\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Base\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Para.Base\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:25:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customers2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\Customers2Controller.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Controllers\\Customers2Controller.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Controllers\\Customers2Controller.cs",
+              "RelativeToolTip": "Para.Api\\Controllers\\Customers2Controller.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:56:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Validation\\FluentValidation\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Validation\\FluentValidation\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Validation\\FluentValidation\\CustomerValidator.cs",
+              "RelativeToolTip": "Para.Api\\Validation\\FluentValidation\\CustomerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:59:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "Para.Data\\Domain\\CustomerAddress.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\Domain\\CustomerAddress.cs",
+              "RelativeToolTip": "Para.Data\\Domain\\CustomerAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:58:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Para.Data\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Data\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Para.Data\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:43:58.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Validation\\FluentValidation\\BookValidator.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Validation\\FluentValidation\\BookValidator.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Validation\\FluentValidation\\BookValidator.cs",
+              "RelativeToolTip": "Para.Api\\Validation\\FluentValidation\\BookValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:13:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Program.cs",
+              "RelativeToolTip": "Para.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:17:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Attribute\\BookValidationAttribute.cs",
+              "RelativeDocumentMoniker": "Para.Api\\Attribute\\BookValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Api\\Attribute\\BookValidationAttribute.cs",
+              "RelativeToolTip": "Para.Api\\Attribute\\BookValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:01:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Para.Bussiness",
+              "DocumentMoniker": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
+              "RelativeDocumentMoniker": "Para.Bussiness\\Para.Bussiness.csproj",
+              "ToolTip": "C:\\Users\\cnr24\\github-classroom\\324-Papara\\aw-2-caner24\\Para.Api\\Para.Bussiness\\Para.Bussiness.csproj",
+              "RelativeToolTip": "Para.Bussiness\\Para.Bussiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T17:13:42.462Z",
+              "EditorCaption": ""
             }
           ]
         }

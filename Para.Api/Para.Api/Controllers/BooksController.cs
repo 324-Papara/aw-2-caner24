@@ -36,6 +36,8 @@ namespace Para.Api.Controllers
         }
 
         [HttpPost]
+        [ServiceFilter(typeof(BookValidationAttribute))]
+
         public ApiResponse Post([FromBody] Book value)
         {
             list.Add(value);
@@ -43,6 +45,8 @@ namespace Para.Api.Controllers
         }
 
         [HttpPut("{id}")]
+        [ServiceFilter(typeof(BookValidationAttribute))]
+
         public ApiResponse Put(int id, [FromBody] Book value)
         {
             var item = list.FirstOrDefault(x => x.Id == id);
